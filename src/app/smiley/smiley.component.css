@@ -1,0 +1,41 @@
+form#smileys .happy {
+    background: url("../../../images/happy.png") center;
+    background-size: cover;
+    border: none;
+    display:block;
+    height: 100px;
+    width: 100px;
+    border-radius: 50%;
+}
+
+form#smileys .sad {
+    background: url("../../../images/sad.png") center;
+    background-size: cover;
+    border: none;
+    display:block;
+    height: 100px;
+    width: 100px;
+    border-radius: 50%;
+}
+
+form#smileys .angry {
+    background: url("../../../images/angry.png") center;
+    background-size: cover;
+    border: none;
+    display:block;
+    height: 100px;
+    width: 100px;
+    border-radius: 50%;
+}
+
+form#smileys .confuse {
+    background: url("../../../images/confuse.png") center;
+    background-size: cover;
+    border: none;
+    display:block;
+    height: 100px;
+    width: 100px;
+    border-radius: 50%;
+}
+
+  

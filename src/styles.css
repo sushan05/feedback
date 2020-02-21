@@ -1,1 +1,5 @@
 /* You can add global styles to this file, and also import other style files */
+.back{
+    background: rgb(6,32,99);
+background: linear-gradient(101deg, rgba(6,32,99,0.8239670868347339) 7%, rgba(92,9,121,1) 48%, rgba(247,131,255,1) 94%);
+}
