@@ -9,7 +9,7 @@ import { SmileyComponent } from './smiley/smiley.component';
 import {Routes,RouterModule} from '@angular/router';
 import { CommentComponent } from './comment/comment.component';
 import { ThanksComponent } from './thanks/thanks.component';
-
+import {FormsModule, ReactiveFormsModule} from '@angular/forms';
 @NgModule({
   declarations: [
     AppComponent,
@@ -20,7 +20,9 @@ import { ThanksComponent } from './thanks/thanks.component';
   ],
   imports: [
     BrowserModule,
-    AppRoutingModule
+    AppRoutingModule,
+    FormsModule,
+    ReactiveFormsModule
   ],
   providers: [],
   bootstrap: [AppComponent]
